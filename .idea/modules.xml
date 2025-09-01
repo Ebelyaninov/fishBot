@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/fishBotNew.iml" filepath="$PROJECT_DIR$/.idea/fishBotNew.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/fishBot.iml" filepath="$PROJECT_DIR$/.idea/fishBot.iml" />
     </modules>
   </component>
 </project>
