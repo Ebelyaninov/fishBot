@@ -1,4 +1,4 @@
-import os  # <-- Add this line
+import os
 import mss
 import mss.tools
 from PIL import Image
